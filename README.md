@@ -15,7 +15,7 @@ The workspace can be launched on Deepnote by clicking on the badge above.
 
 Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
 
-Instructions:
+## Instructions:
 
 1- Click on the badge to open the Deepnote environment
 
