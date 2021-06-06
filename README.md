@@ -14,3 +14,16 @@ It cointains 4 jupyter notebooks:
 The workspace can be launched on Deepnote by clicking on the badge above. 
 
 Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
+
+Instructions:
+
+1- Click on the badge to open the Deepnote environment
+
+2- Create account. You can use a google account or a GitHub account (this step is necessary if you wish to run the code. You can still see the content without creating an account but you won't be able to execute anything)
+
+3- On the left menu go to Environment. Then click on the dropdown menu where it says Python 3.7 and select "Local ./Dockerfile".
+The kernel will launch and install all the dependencies.
+
+4- Click on Notebooks & Files on the left menu bar and go to 1_basic_ML_tutorial.ipynb
+
+5-Go!
