@@ -11,3 +11,6 @@ It cointains 4 jupyter notebooks:
 -   **2_chemical_example.ipynb**: Replication of the same methods using a real world example with chemical data.
 -   **3_atomistic_modelling.ipynb**: Introduction to the QML and ASE packages to perform molecular structure analysis and structure-to-property ML models.
 
+The workspace can be launched on Deepnote by clicking on the badge above. 
+
+Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and easy deployment.
