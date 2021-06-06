@@ -1,6 +1,6 @@
 # BDML4Chem
 [<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https://github.com/lcmd-epfl/BDML4Chem.git)
-#[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lcmd-epfl/BDML4Chem/main)
+# [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lcmd-epfl/BDML4Chem/main)
 
 This repository contains the material for the practical session of the school Big Data and Machine Learning for Chemistry (BDML4Chem).
 
